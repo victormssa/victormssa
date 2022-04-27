@@ -1,4 +1,4 @@
-### ✨👋Howdy, name's Victor.✨
+### ✨👋Howdy partner, name's Victor.✨
 👨‍💻 Front-End Web Developer<br>
 ☕ cyberCafé.JS Manager<br>
 📚 Writer In spare time<br>
@@ -8,8 +8,8 @@
 Information that you'll want to read:<br>
 🤔 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
 💬 I'm fluent in English although I was born In Brazil, been learning it since I was like... 7?(Dunno)<br>
-💻 Programming Language && Technologies: JavaScript, HTML, CSS.<br>
-🎓 Currently Studying: Typescript, ReactJS.
+💻 Programming Language && Technologies: JavaScript, HTML, CSS, Photoshop.<br>
+🎓 Currently Studying: Typescript, ReactJS, Node.js.
 
 <!--
 **victormssa/victormssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
