@@ -1,6 +1,6 @@
 ### ✨👋Howdy partner, name's Victor.✨
 👨‍💻 Front-End Web Developer<br>
-☕ cyberCafé.JS Manager<br>
+☕ Project cyberCafé.JS Manager<br>
 📚 Writer In spare time<br>
 🧙🏻‍♂️ Lvl 21 Warlock Hexblade<br>
 🇧🇷  Brazilian<br>
