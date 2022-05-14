@@ -11,8 +11,10 @@ Information that you'll want to read:<br>
 💻 Programming Language && Technologies: JavaScript, HTML, CSS, Photoshop.<br>
 🎓 Currently Studying: Typescript, ReactJS, Node.js.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormssa&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormssa&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **victormssa/victormssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
