@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=F7F7F7&center=true&vCenter=true&lines=Hello%2C+World!;Ol%C3%A1%2C+Mundo!)](https://git.io/typing-svg)
-<h2>✨👋Howdy partner name's Victor.✨</h2>
+<h2>👋Howdy partner name's Victor.</h2>
 👨‍💻 <strong>Front-End Web Developer</strong><br>
 ☕ <strong>Project cyberCafé.js Manager</strong><br>
 📚 <strong>Writer In spare time</strong><br>
@@ -10,7 +10,7 @@
 💼 <strong>https://www.linkedin.com/in/victor-manoel-soares-silva-alves-10b631209/</strong><br>
 📧 <strong>victormssalves@outlook.com</strong>
 
-<h2>Information that you'll want to read</h2>
+<h2>✨Information that you'll want to read</h2>
 🤔 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
 💬 I'm fluent in English although I was born In Brazil, been learning it since I was like... 7?(Dunno)<br>
 💻 <strong>Programming Language && Technologies:</strong> JavaScript, HTML, CSS, Photoshop.<br>
