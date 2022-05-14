@@ -9,7 +9,7 @@ Information that you'll want to read:<br>
 🤔 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
 💬 I'm fluent in English although I was born In Brazil, been learning it since I was like... 7?(Dunno)<br>
 💻 Programming Language && Technologies: JavaScript, HTML, CSS, Photoshop.<br>
-🎓 Currently Studying: Typescript, ReactJS, Node.js.
+🎓 Currently Studying: Typescript, ReactJS, Node.js, Bootstrap.
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true)
