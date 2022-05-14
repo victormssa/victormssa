@@ -10,6 +10,7 @@ Information that you'll want to read:<br>
 💬 I'm fluent in English although I was born In Brazil, been learning it since I was like... 7?(Dunno)<br>
 💻 Programming Language && Technologies: JavaScript, HTML, CSS, Photoshop.<br>
 🎓 Currently Studying: Typescript, ReactJS, Node.js.
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormssa&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
