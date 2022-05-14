@@ -5,6 +5,8 @@
 📚 Writer In spare time<br>
 🧙🏻‍♂️ Lvl 21 Warlock Hexblade<br>
 🇧🇷  Brazilian<br>
+<q>I've always been involved in the IT area, to the point of being in front of the PC for hours since I were a kid. I have several multinational references from different sectors, in addition to hobbies such as writing books, editing videos, programming and modifying games. I am very excited to grow and learn even more; always willing to listen and put any tips into practice.</q> - Me, 2022 while writing this.
+<br>
 
 Information that you'll want to read:<br>
 🤔 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
