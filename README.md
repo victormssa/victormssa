@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&center=true&vCenter=true&lines=Ol%C3%A1%2C+Mundo!;Hello%2C+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=F7F7F7&center=true&vCenter=true&lines=Hello%2C+World!;Ol%C3%A1%2C+Mundo!)](https://git.io/typing-svg)
 ### ✨👋Howdy partner, name's Victor.✨
 👨‍💻 Front-End Web Developer<br>
 ☕ Project cyberCafé.js Manager<br>
