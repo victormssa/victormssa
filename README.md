@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=F70000&center=true&vCenter=true&lines=Hello%2C+World!;Ol%C3%A1%2C+Mundo!)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=80000&color=F70000&vCenter=true&lines=%5BLOADING...%5D;POGGERS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=%5BLoading...%5D;%5BLoading...%5D;%5BLoading...%5D;%5BLoading...%5D)](https://git.io/typing-svg)
 <h2>👋Howdy partner name's Victor.</h2>
 👨‍💻 <strong>Front-End Web Developer</strong><br>
 ☕ <strong>Project cyberCafé.js Manager</strong><br>
