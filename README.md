@@ -12,7 +12,7 @@
 😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
 💬 I'm fluent in English although I was born In Brazil, been learning it since I was like... 7?(Dunno)<br>
 💻 <strong>Programming Language && Technologies:</strong> ES6, JavaScript, HTML, CSS, Photoshop.<br>
-🎓 <strong>Currently Studying:</strong> Typescript, ReactJS, Node.js, MySQL.
+🎓 <strong>Currently Studying:</strong> Typescript, ReactJS, Node.js, MySQL.<br>
 🤔 <strong>Pretends to Study:</strong> Vue.js, Bootstrap, MongoDB.
 <hr>
 
