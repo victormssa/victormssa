@@ -9,11 +9,11 @@
 <q>I've always been involved in the IT area, to the point of being in front of the PC for hours since I was a kid. I have several multinational references from different sectors, in addition to hobbies such as writing books, editing videos, programming and modifying games. I am very excited to grow and learn even more; always willing to listen and put any tips into practice.</q> - Me, 2022 while writing this.
 
 <h2>✨Information that you'll want to read</h2>
-🤔 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
+😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
 💬 I'm fluent in English although I was born In Brazil, been learning it since I was like... 7?(Dunno)<br>
 💻 <strong>Programming Language && Technologies:</strong> ES6, JavaScript, HTML, CSS, Photoshop.<br>
-🎓 <strong>Currently Studying:</strong> Typescript, Vue.js, ReactJS, Node.js, Bootstrap, MySQL, MongoDB.
-  
+🎓 <strong>Currently Studying:</strong> Typescript, ReactJS, Node.js, MySQL.
+🤔 <strong>Pretends to Study:</strong> Vue.js, Bootstrap, MongoDB.
 <hr>
 
 
