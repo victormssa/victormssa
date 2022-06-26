@@ -12,7 +12,7 @@
 😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.<br> 
 💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>
 💻 <strong>Programming Language && Technologies:</strong> ES6, JavaScript, HTML, CSS, SCSS, SQL, MySQL, Node.js, Photoshop.<br>
-🎓 <strong>Currently Studying:</strong>ReactJS.<br>
+🎓 <strong>Currently Studying:</strong> ReactJS.<br>
 🤔 <strong>Pretends to Study:</strong> Typescript, Vue.js, Bootstrap, MongoDB.<br><br>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
