@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=F70000&center=true&vCenter=true&lines=Hello%2C+World!;Ol%C3%A1%2C+Mundo!)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=%5BLoading...%5D;%5BLoading...%5D;%5BLoading...%5D;%5BLoading...%5D)](https://git.io/typing-svg)
+
 <h2 align="left">👋😎 Howdy partner, name's Victor.</h2>
 👨‍💻 <strong>Front-End Web Developer</strong><br>
 ☕ <strong>Project cyberCafé.js Manager</strong><br>
@@ -28,7 +29,7 @@
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-manoel-soares-silva-alves-10b631209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-manoel-soares-silva-alves-10b631209/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victor-manoel-soares-silva-alves-10b631209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-manoel-soares-silva-alves-10b631209/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/victorssalves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/victorssalves/" height="30" width="40" /></a>
 </p>
 
