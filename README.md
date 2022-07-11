@@ -61,10 +61,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/victormssa/victormssa/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" src="https://profile-counter.glitch.me/victormssa/count.svg?"  />
 
 ###
