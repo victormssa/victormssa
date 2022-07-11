@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 21 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🤔 Intends to Study: Vue.js, Bootstrap.<br><br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
+<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 21 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🤔 Intends to Study: Vue.js, Bootstrap, Typescript.<br><br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
 
 ###
 
@@ -20,7 +20,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
