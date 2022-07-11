@@ -61,10 +61,6 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/victormssa/count.svg?"  />
-
-###
-
 
 
 
