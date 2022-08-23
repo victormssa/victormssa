@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 21 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🤔 Intends to Study: Vue.js, Bootstrap, Typescript.<br><br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
+<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 21 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🤔 Intends to Study: Vue.js, Bootstrap, Typescript, Scrum.<br><br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
 
 ###
 
