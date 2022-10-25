@@ -70,8 +70,8 @@
 <br><br>
 <img align="left" height="415px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormssa&langs_count=8&theme=dark&hide_border=true">
 <div align="right">
-<img height="203px" width="400px" src="https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true&custom_title=Victormssa's%20Github%20Stats&theme=dark&hide_border=true">
-<img height="203px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=victormssa&theme=dark&hide_border=true">
+<img height="203px" width="450px" src="https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true&custom_title=Victormssa's%20Github%20Stats&theme=dark&hide_border=true">
+<img height="203px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=victormssa&theme=dark&hide_border=true">
 </div>
 
 ###
