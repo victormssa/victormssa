@@ -66,7 +66,7 @@
 
 ###
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=victormssa&theme=dark&hide_border=true">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=victormssa&theme=darkt&hide_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormssa&langs_count=8&theme=dark&hide_border=true">
 <div align="right">
