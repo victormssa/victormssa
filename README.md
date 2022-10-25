@@ -66,10 +66,6 @@
 
 ###
 
-<h3 align="center">
-<details open>
-<summary><h3>Ａctivity</h3></summary>
-<br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=victormssa&theme=dark&hide_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormssa&langs_count=8&theme=dark&hide_border=true">
@@ -77,7 +73,6 @@
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true&custom_title=Victormssa's%20Github%20Stats&theme=dark&hide_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=victormssa&theme=dark&hide_border=true">
 </div>
-</details>
 
 ###
 
