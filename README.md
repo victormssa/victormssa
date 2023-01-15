@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">"I've always been involved in the IT area, to the point of being in front of the PC for hours since I was a kid. I have several multinational references from different sectors, in addition to hobbies such as writing books, editing videos, programming and modifying games. I am very excited to grow and learn even more; always willing to listen and put any tips into practice."</p>
+<p align="left">I'm a person constantly involved in the IT area, to the point of being in front of my development environment for hours, it's my blood, sweat and tears.
+  
+I have several multinational references from different sectors, in addition to hobbies such as writing books, editing videos, programming and modifying games. I am very enthusiastic to grow and learn even more; always willing to listen and put into practice any update.</p>
 
 ###
 
@@ -22,7 +24,7 @@
 
 ###
 
-<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 21 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🤔 Intends to Study: Vue.js, Bootstrap, Typescript, Scrum.<br><br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
+<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 22 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🤔 Intends to Study: Vue.js, Bootstrap, Typescript, Scrum.<br><br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
 
 ###
 
@@ -63,18 +65,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=victormssa&theme=darkt&hide_border=true">
-<br><br>
-<img align="left" height="415px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormssa&langs_count=7&theme=dark&hide_border=true">
-<div align="right">
-<img height="203px" width="450px" src="https://github-readme-stats.vercel.app/api?username=victormssa&show_icons=true&custom_title=Victormssa's%20Github%20Stats&theme=dark&hide_border=true">
-<img height="203px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=victormssa&theme=dark&hide_border=true">
-</div>
-
-###
 
 
 
