@@ -24,7 +24,7 @@ I have several multinational references from different sectors, in addition to h
 
 ###
 
-<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 22 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🤔 Intends to Study: Vue.js, Bootstrap, Typescript, Scrum.<br><br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
+<p align="left">👨‍💻 Front-End Web Developer<br>📚 Writer In spare time<br>🧙🏻‍♂️ Lvl 22 Warlock Hexblade<br>✨ Creating bugs since 2020<br>💬 I'm fluent in English although I was born In Brazil, been learning it since I was a kid.<br>🎲 Fun fact: I love FNV and TESV.<br>😎👍 Yeah, if you're looking for someone to help you out with my set of skills, I'm your guy.</p>
 
 ###
 
@@ -33,20 +33,79 @@ I have several multinational references from different sectors, in addition to h
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" width="52" alt="gimp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <table>
+  <tr>
+    <th>Front-End</th>
+    <th>Back-End</th>
+    <th>Misc</th>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>MySQL</td>
+    <td>Scrum</td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>Postman</td>
+    <td>Yarn</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>Axios</td>
+    <td>Npm</td>
+  </tr>
+  <tr>
+    <td>React.js</td>
+    <td>Express</td>
+    <td>Figma</td>
+  </tr>
+    <tr>
+    <td>Electron</td>
+    <td></td>
+    <td>JWT</td>
+  </tr>
+  <tr>
+    <td>CSS 3</td>
+    <td></td>
+    <td>Git</td>
+  </tr>
+  <tr>
+    <td>SCSS</td>
+    <td></td>
+    <td>GitLab</td>
+  </tr>
+    <tr>
+    <td>Tailwind</td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Bootstrap</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HTML 5</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Storybook</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Styled Components</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>React.Router</td>
+    <td></td>
+    <td></td>
+  </tr>
+    
+</table>
 </div>
 
 ###
