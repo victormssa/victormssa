@@ -61,7 +61,7 @@ I have several multinational references from different sectors, in addition to h
   </tr>
     <tr>
     <td>Electron</td>
-    <td></td>
+    <td>Rust</td>
     <td>JWT</td>
   </tr>
   <tr>
