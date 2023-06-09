@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://github.com/victormssa/victormssa/blob/main/assets/banner.png" alt="Banner" />
-</div>
 
-<h1 align="center">👋😎 Olá, eu sou o Victor!</h1>
+
+<h1 align="center">👋😎 Bom dia, primo!</h1>
 
 <p align="center">
-  <a href="README.md">🇺🇸 English</a> |
-  <a href="README-PT.md">🇧🇷 Português</a>
+  <a href="README-ENG.md">🇺🇸 English</a> |
+  <a href="README.md">🇧🇷 Português</a>
 </p>
 
 <p align="left">Sou um entusiasta da área de TI com uma paixão incomparável pelo desenvolvimento de software. Passo horas na frente do meu ambiente de desenvolvimento, mergulhando de cabeça no mundo da tecnologia. É uma parte essencial da minha vida, algo que me motiva a superar desafios e aprimorar minhas habilidades constantemente.
